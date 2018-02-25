@@ -1,2 +1,1 @@
-# Spider
 Web Crawler
